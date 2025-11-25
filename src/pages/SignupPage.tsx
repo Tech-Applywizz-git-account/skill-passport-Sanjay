@@ -5,7 +5,6 @@ import supabase from '../utils/supabase';
 import LoginModal from './LoginModal'; // Import LoginModal component
 import { AiFillEye, AiFillEyeInvisible } from "react-icons/ai";
 
-
 const SignupPage: React.FC = () => {
   const navigate = useNavigate();
 
